@@ -19,7 +19,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "YourAuthToken";
+char auth[] = "5f5af2269d7c47a2bcc676fe0a704e79";
 
 void setup()
 {
